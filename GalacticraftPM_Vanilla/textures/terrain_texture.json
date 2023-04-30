@@ -1,0 +1,20 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+	"moon_top": {
+	    "textures":	"textures/blocks/moon/top"
+	},
+    "moon_top_side": {
+        "textures": "textures/blocks/moon/top_side"
+    },
+	"moon_middle": {
+	    "textures":	"textures/blocks/moon/middle"
+	},
+    "moon_bottom": {
+        "textures": "textures/blocks/moon/bottom"
+    }
+    }
+}

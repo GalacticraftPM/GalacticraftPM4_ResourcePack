@@ -1,0 +1,19 @@
+{
+  "format_version": [1, 1, 0],
+  "customies:moon_turf": {
+    "textures": {
+      "up": "moon_top",
+      "side": "moon_top_side",
+      "down": "moon_middle"
+    },
+    "sound": "stone"
+  },
+  "customies:moon_dirt": {
+    "textures": "moon_middle",
+    "sound": "stone"
+  },
+  "customies:moon_rock": {
+    "textures": "moon_bottom",
+    "sound": "stone"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "GalacticraftPM_Vanilla",
+    "description": "Vanilla Resource Pack for GalacticraftPM4",
+    "uuid": "19a16fa8-b865-0445-4fe8-91d399b474b8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "052c8b34-e087-8763-6763-a7009c50834b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
