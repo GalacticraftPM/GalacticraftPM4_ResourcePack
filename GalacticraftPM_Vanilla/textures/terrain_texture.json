@@ -4,17 +4,41 @@
     "padding": 8,
     "num_mip_levels": 4,
     "texture_data": {
-	"moon_top": {
+	  "moon_top": {
 	    "textures":	"textures/blocks/moon/top"
-	},
-    "moon_top_side": {
+	  },
+      "moon_top_side": {
         "textures": "textures/blocks/moon/top_side"
-    },
-	"moon_middle": {
+     },
+	  "moon_middle": {
 	    "textures":	"textures/blocks/moon/middle"
-	},
-    "moon_bottom": {
+	  },
+      "moon_bottom": {
         "textures": "textures/blocks/moon/bottom"
-    }
+      },
+      "moon_ore_cheese": {
+        "textures": "textures/blocks/moon/moonore_cheese"
+      },
+      "moon_ore_sapphire": {
+        "textures": "textures/blocks/moon/moonore_sapphire"
+      },
+      "ore_copper_moon": {
+        "textures": "textures/blocks/moon/ore_copper_moon"
+      },
+      "ore_tin_moon": {
+        "textures": "textures/blocks/moon/ore_tin_moon"
+      },
+      "ore_copper": {
+        "textures": "textures/blocks/overworld/ore_copper"
+      },
+      "ore_tin": {
+        "textures": "textures/blocks/overworld/ore_tin"
+      },
+      "ore_silicon": {
+        "textures": "textures/blocks/overworld/ore_silicon"
+      },
+      "aluminium_ore": {
+        "textures": "textures/blocks/overworld/ore_aluminium"
+      }
     }
 }

@@ -15,5 +15,37 @@
   "customies:moon_rock": {
     "textures": "moon_bottom",
     "sound": "stone"
+  },
+  "customies:moon_cheese_ore": {
+    "textures": "moon_ore_cheese",
+    "sound": "stone"
+  },
+  "customies:moon_sapphire_ore": {
+    "textures": "moon_ore_sapphire",
+    "sound": "stone"
+  },
+  "customies:copper_ore": {
+    "textures": "ore_copper",
+    "sound": "stone"
+  },
+  "customies:copper_ore_moon": {
+    "textures": "ore_copper_moon",
+    "sound": "stone"
+  },
+  "customies:tin_ore": {
+    "textures": "ore_tin",
+    "sound": "stone"
+  },
+  "customies:tin_ore_moon": {
+    "textures": "ore_tin_moon",
+    "sound": "stone"
+  },
+  "customies:silicon_ore": {
+    "textures": "ore_silicon",
+    "sound": "stone"
+  },
+  "customies:aluminium_ore": {
+    "textures": "aluminium_ore",
+    "sound": "stone"
   }
 }
